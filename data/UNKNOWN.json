@@ -1,1 +1,18 @@
-
+{
+    "id": 27690100,
+    "name": "UNKNOWN",
+    "author": "icedcave",
+    "creators": ["Gusearth", "kywy", "Renn241", "DrCuber", "GhostVandalf", "GD Iris", "NineDice", "Relayne", "muriday"],
+    "verifier": "Kole",
+    "verification": "https://www.youtube.com/watch?v=TOKYeXDn9BU",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cheton",
+            "link": "https://www.youtube.com/watch?v=nz8j5ADswMM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

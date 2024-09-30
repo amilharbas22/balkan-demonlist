@@ -9,8 +9,26 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Iceblivionx",
+            "link": "https://www.youtube.com/watch?v=3xyM0q0oCqA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Stefan",
+            "link": "https://www.youtube.com/watch?v=657wgIj9HIE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Kole",
             "link": "https://www.youtube.com/watch?v=5IWoiZpdg9I",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Martinbg401",
+            "link": "https://www.youtube.com/watch?v=cwCkxjFO5Yk",
             "percent": 100,
             "hz": 240
         },

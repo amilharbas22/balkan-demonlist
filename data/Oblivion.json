@@ -1,0 +1,18 @@
+{
+    "id": 71025973,
+    "name": "Oblivion",
+    "author": "benji8080",
+    "creators": ["benji8080", "goob", "eth", "silver"],
+    "verifier": "Stefan",
+    "verification": "https://www.youtube.com/watch?v=8VeC7Hk07fk",
+    "percentToQualify": 49,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Soletki",
+            "link": "https://www.youtube.com/watch?v=euH-foHXzbw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+} 

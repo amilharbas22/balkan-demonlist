@@ -1,0 +1,41 @@
+{
+    "id": 69333212,
+    "name": "Promethean",
+    "author": "EndLevel",
+    "creators": ["EndLevel", "Realvet", "River", "ConnectedGD"],
+    "verifier": "andreas",
+    "verification": "a",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MCDakan",
+            "link": "https://www.youtube.com/watch?v=KsAgdbPdkyE",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=JVsNpELZG4E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zInslanex",
+            "link": "https://www.youtube.com/watch?v=Rd4LIoIbY2s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kir1lkata",
+            "link": "https://www.youtube.com/watch?v=otZxrqpVMRQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Robi0990",
+            "link": "https://www.youtube.com/watch?v=LyCqHErCNFw",
+            "percent": 95,
+            "hz": 330
+        }
+    ]

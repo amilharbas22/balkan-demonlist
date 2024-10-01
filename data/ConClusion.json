@@ -1,4 +1,3 @@
-template za pravljenje levela
 {
     "id": 96471171,
     "name": "ConClusion",
@@ -9,3 +8,4 @@ template za pravljenje levela
     "percentToQualify": "58",
     "password": "Free To Copy",
     "records": [
+}

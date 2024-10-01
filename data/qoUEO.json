@@ -1,0 +1,18 @@
+{
+    "id": 81721025,
+    "name": "qoUEO",
+    "author": "GhostVandalf",
+    "creators": ["GhostVandalf"],
+    "verifier": "Soletki",
+    "verification": "https://www.youtube.com/watch?v=KBdHyAq36QY",
+    "percentToQualify": "27",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "realdanish",
+            "link": "https://www.youtube.com/watch?v=x0f17eTyGfY",
+            "percent": 43,
+            "hz": 240
+        }
+    ]
+}

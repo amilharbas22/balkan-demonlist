@@ -14,11 +14,11 @@
 }
 
 .tabs .tab:first-child {
-    border-top-left-radius: 0.5rem;
+    border-top-left-radius: 1rem;
 }
 
 .tabs .tab:last-child {
-    border-top-right-radius: 0.5rem;
+    border-top-right-radius: 1rem;
 }
 
 .tabs .tab.selected{

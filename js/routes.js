@@ -1,9 +1,9 @@
 import List from './pages/List.js';
 import Leaderboard from './pages/Leaderboard.js';
-import Challenge_List from './pages/Challenge_List.js';
+import Roulette from './pages/Roulette.js';
 
 export default [
     { path: '/', component: List },
     { path: '/leaderboard', component: Leaderboard },
-    { path: '/challenge_list', component: Challenge List },
+    { path: '/Roulette', component: Challenge List },
 ];

@@ -24,7 +24,7 @@
             "user": "zInslanex",
             "link": "https://www.youtube.com/watch?v=Rd4LIoIbY2s",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
             "user": "kir1lkata",
@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=LyCqHErCNFw",
             "percent": 95,
             "hz": 330
+        },
+        {
+            "user": "phrost",
+            "link": " ",
+            "percent": 82,
+            "hz": 
         }
     ]
 }

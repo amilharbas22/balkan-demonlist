@@ -1,0 +1,30 @@
+{
+    "id": 5454,
+    "name": "Renevant",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "TheSlammed",
+    "verification": "https://www.youtube.com/watch?v=s6DoVWdTd-M",
+    "percentToQualify": "47",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=il7yE11PY0Y",
+            "percent": 280,
+            "hz": 360
+        },
+        {
+            "user": "mari",
+            "link": "https://www.youtube.com/watch?v=NRXX-Xh4M5s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "domi77",
+            "link": " ",
+            "percent": 60,
+            "hz": 288
+        }
+    ]
+}

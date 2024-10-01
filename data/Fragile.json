@@ -1,0 +1,24 @@
+{
+    "id": 65588448,
+    "name": "Fragile",
+    "author": "EndLevel",
+    "creators": ["EndLevel", "Shuri", "Yuko", "XLSpiral", "Deadlox", "ARtu", "Minaxa","ViRuZ"]
+    "verifier": "Liternix",
+    "verification": "https://youtu.be/4ughGyOdPqA?si=q7oN88nz5KD8kGUF",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kole",
+            "link": "https://youtu.be/GJH5PaPsld0?si=24KHlPS4Nc_LbFos",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Phrost",
+            "link": "https://youtu.be/2fybLQqFPEw?si=qVcOU5oB3D_pU3LX",
+            "percent": 66,
+            "hz": 240
+        }
+    ]
+}

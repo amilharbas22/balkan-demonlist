@@ -1,0 +1,24 @@
+{
+    "id": 88136707,
+    "name": "Sky Shredder",
+    "author": "Dorvict",
+    "creators": ["Dorvict"],
+    "verifier": "razsta4ax",
+    "verification": "razsta4ax",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Evernou",
+            "link": "https://www.youtube.com/watch?v=Ftp8N6q890c",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "mari",
+            "link": "https://www.youtube.com/watch?v=WZIOkoX4y3g",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

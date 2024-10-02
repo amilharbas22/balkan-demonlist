@@ -1,0 +1,60 @@
+{
+    "id": 45866767,
+    "name": "Crimson Planet",
+    "author": "TrueOmega",
+    "creators": ["TrueOmega", "nikrodox", "EndLevel", "YakobNugget", "Dz3ser", "Terron", "AimTheSame", "Zimnyte", "TrusTa", "Metalface221", "MrPPs"],
+    "verifier": "ANeph",
+    "verification": "a",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MCDakan",
+            "link": "https://www.youtube.com/watch?v=mKnR_MXK72s",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Liternix",
+            "link": "https://www.youtube.com/watch?v=y42HQxjIMbE",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "gdStraightFly",
+            "link": "https://www.youtube.com/watch?v=vb133X7UdYM",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Lily",
+            "link": "https://www.youtube.com/watch?v=gUQMxHE-AaQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheSlammed",
+            "link": "https://www.youtube.com/watch?v=CjcKYaaEFd4",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Lekoda",
+            "link": "https://www.youtube.com/watch?v=whvpSl_DHhw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=TaoKie8GhUQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Martin",
+            "link": "https://www.youtube.com/watch?v=9RVM3ZQhPYc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

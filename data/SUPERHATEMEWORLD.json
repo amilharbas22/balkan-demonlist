@@ -3,10 +3,16 @@
     "name": "SUPERHATEMEWORLD",
     "author": "icedcave",
     "creators": ["icedcave", "Endlevel", "RealVet", "Doop" ,"Kallari", "River"],
-    "verifier": "Kole",
-    "verification": "https://youtu.be/phKCMUuEiAE?si=4EiSGsLmK0eCG60B",
+    "verifier": "Soletki",
+    "verification": "https://www.youtube.com/watch?v=OHZYmspqYUQ",
     "percentToQualify": "49",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=phKCMUuEiAE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

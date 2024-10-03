@@ -1,0 +1,24 @@
+{
+    "id": 91180835,
+    "name": "ATOMIC CANNON Mk II",
+    "author": "LIEB",
+    "creators": ["LIEB", "Giron"],
+    "verifier": "mari",
+    "verification": "https://www.youtube.com/watch?v=V561fefHQqo",
+    "percentToQualify": "47",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "spaceinvader",
+            "link": "https://www.youtube.com/watch?v=AxctJy4eG7E",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Milos",
+            "link": "https://www.youtube.com/watch?v=8K1zxQ6_uOg",
+            "percent": 100,
+            "hz": 1000
+        }
+    ]
+}

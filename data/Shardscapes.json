@@ -1,0 +1,30 @@
+{
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "Kiba",
+    "creators": ["Kiba"],
+    "verifier": "Robi0990",
+    "verification": "https://www.youtube.com/watch?v=AoWQOUrCZEc",
+    "percentToQualify": "45",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=6pI6enyhYgc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "andreas",
+            "link": "https://www.youtube.com/watch?v=Q5-nRTXtEhw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RelikRS",
+            "link": "https://www.youtube.com/watch?v=4mvyWYw1rMQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

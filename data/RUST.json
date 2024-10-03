@@ -1,0 +1,42 @@
+{
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "CawMon",
+    "verification": "https://www.youtube.com/watch?v=_T6vG2xOu7g",
+    "percentToQualify": "44",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "realdanish",
+            "link": "https://www.youtube.com/watch?v=zl8yVPzJBc8",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "spaceinvader",
+            "link": "https://www.youtube.com/watch?v=cbVfsMNCwbo",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "mari",
+            "link": "https://www.youtube.com/watch?v=CExDyjcmJ_M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "RelikRS",
+            "link": "https://www.youtube.com/watch?v=E8-VXSqCpto",
+            "percent": 73,
+            "hz": 300
+        },
+        {
+            "user": "VexPlayz",
+            "link": "https://www.youtube.com/watch?v=rBf_2ocsplk",
+            "percent": 59,
+            "hz": 240
+        }
+    ]
+}

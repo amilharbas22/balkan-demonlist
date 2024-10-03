@@ -1,0 +1,66 @@
+{
+    "id": 57600307,
+    "name": "Cognition",
+    "author": "EndLevel",
+    "creators": ["benji8080", "EndLevel"],
+    "verifier": "Liternix",
+    "verification": "https://www.youtube.com/watch?v=NOGPEJ3Yedk",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "phrost",
+            "link": "https://www.youtube.com/watch?v=PAsYIG4ebXM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Lekoda",
+            "link": "https://www.youtube.com/watch?v=lvdPo5WrX18",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=tCHfbHsbQO8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Stefan",
+            "link": "https://www.youtube.com/watch?v=xkjMYGpY2Xw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "domi77",
+            "link": "https://www.youtube.com/watch?v=rEuaBl7QovY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "EatYoCake",
+            "link": "https://www.youtube.com/watch?v=6zgkpPJ2uQ4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mari",
+            "link": "https://www.youtube.com/watch?v=zQI6ruQ8T3s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kacek",
+            "link": "https://www.youtube.com/watch?v=ejy47x4Yp3s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lily",
+            "link": " ",
+            "percent": 70,
+            "hz": 240
+        }
+    ]
+}

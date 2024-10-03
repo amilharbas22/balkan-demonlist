@@ -1,0 +1,48 @@
+{
+    "id": a,
+    "name": "Ragnarok",
+    "author": "knobbelboy",
+    "creators": ["knobbelboy", "Xaro", "PanMan", "Davphla", "Rustam", "Gaero", "Th04", "ZephiroX", "Bianox", "Platnuu", "Tobi", "Enlex", "Ji", "Darwin"],
+    "verifier": "mari",
+    "verification": "https://www.youtube.com/watch?v=6s4i08VJ5UA",
+    "percentToQualify": "42",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "gdStraightFly",
+            "link": "https://www.youtube.com/watch?v=1E06CPUaqS4",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "oGameplay",
+            "link": "https://www.youtube.com/watch?v=mls1DLzTwGE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=u5lZf4PH0Rg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Iceblivionx",
+            "link": "https://www.youtube.com/watch?v=oP_585QTTZw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Robi0990",
+            "link": "https://www.youtube.com/watch?v=lquazxC17vQ",
+            "percent": 89,
+            "hz": 330
+        },
+        {
+            "user": "Thicc Boi",
+            "link": "https://www.youtube.com/watch?v=WZixdi2Icwo",
+            "percent": 74,
+            "hz": 240
+        }
+    ]
+}

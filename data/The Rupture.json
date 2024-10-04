@@ -1,0 +1,18 @@
+{
+    "id": 57828784,
+    "name": "The Rupture",
+    "author": "Ka1ns",
+    "creators": ["Ka1ns"],
+    "verifier": "minusPetar",
+    "verification": "https://www.youtube.com/watch?v=SgZF38s-G1Q",
+    "percentToQualify": "46",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Lekoda",
+            "link": "https://www.youtube.com/watch?v=09YpGD79OcQ",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}

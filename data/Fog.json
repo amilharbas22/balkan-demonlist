@@ -1,0 +1,18 @@
+{
+    "id": 90853661,
+    "name": "Fog",
+    "author": "notes",
+    "creators": ["notes, pixll, Slayer"],
+    "verifier": "Lekoda",
+    "verification": "https://www.youtube.com/watch?v=eb4y6gO2dOQ",
+    "percentToQualify": "48",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Milos",
+            "link": "https://www.youtube.com/watch?v=GutJ9VZYUg0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

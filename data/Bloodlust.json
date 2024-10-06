@@ -1,0 +1,72 @@
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "knobbelboy",
+    "creators": ["knobbelboy, Namtar, Quasar, Rustam, Manix648, Michigun, Etzer, Terron, weoweoteo, Vermillion, Evasium, Asonicmen, Havok, nwolc, Panman, Wabbit, Minesap, Xaro, nikroplays, Willy5000, TMNGaming, non4med, Giron, Ggb0y"],
+    "verifier": "Diamond",
+    "verification": "https://www.youtube.com/watch?v=9fsiyFaF-6s",
+    "percentToQualify": "48",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Iceblivionx",
+            "link": "https://www.youtube.com/watch?v=uq-cBt755hw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=azz851r_Xow",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "oGameplay",
+            "link": "https://www.youtube.com/watch?v=bHX-qANc0eQ",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "a",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Iceblivionx",
+            "link": "https://www.youtube.com/watch?v=uq-cBt755hw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Lekoda",
+            "link": "https://www.youtube.com/watch?v=LlOiMYAD-KE",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Jim Page",
+            "link": "https://www.youtube.com/watch?v=FXx93_snm9U",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Milos",
+            "link": "https://www.youtube.com/watch?v=H4KRxAACLtc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Remy",
+            "link": "https://www.youtube.com/watch?v=PrhenyKVXYE",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "LloydPro",
+            "link": "https://www.youtube.com/watch?v=egLCV67RMhc",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

@@ -57,15 +57,21 @@
             "hz": 240
         },
         {
+            "user": "RelikRS",
+            "link": " ",
+            "percent": 72,
+            "hz": 240
+        },
+        {
             "user": "Remy",
             "link": "https://www.youtube.com/watch?v=PrhenyKVXYE",
-            "percent": 100,
+            "percent": 58,
             "hz": 288
         },
         {
             "user": "LloydPro",
             "link": "https://www.youtube.com/watch?v=egLCV67RMhc",
-            "percent": 100,
+            "percent": 56,
             "hz": 144
         }
     ]

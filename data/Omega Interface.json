@@ -1,0 +1,72 @@
+{
+    "id": 68654380,
+    "name": "Omega Interface",
+    "author": "Platnuu",
+    "creators": ["Platnuu"],
+    "verifier": "Iceblivionx",
+    "verification": "https://www.youtube.com/watch?v=PB3aeTPyvtw",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "minusPetar",
+            "link": "https://www.youtube.com/watch?v=jxHg6rX5EQI",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Lily",
+            "link": "https://www.youtube.com/watch?v=WlqTuuh7LmM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "phrost",
+            "link": "https://www.youtube.com/watch?v=DQGDjc8htWs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=yVlfqts0BJg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Robi0990",
+            "link": "https://www.youtube.com/watch?v=9fkU5pvW8Bg",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Kacek",
+            "link": "https://www.youtube.com/watch?v=pTQHnsyvw6Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "realdanish",
+            "link": "https://www.youtube.com/watch?v=mvAKLtUe9w0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lekoda",
+            "link": "https://www.youtube.com/watch?v=BYLMc9boSzM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Milos",
+            "link": "https://www.youtube.com/watch?v=Dd29iKp1UnE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mari",
+            "link": "https://www.youtube.com/watch?v=S7DqoEPtZh4",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

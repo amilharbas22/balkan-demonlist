@@ -8,5 +8,11 @@
     "percentToQualify": "41",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Jim Page",
+            "link": "https://www.youtube.com/watch?v=456mDQA9H7I",
+            "percent": 79,
+            "hz": 240
+        }
     ]
 }

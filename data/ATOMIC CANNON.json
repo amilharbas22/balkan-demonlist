@@ -1,0 +1,48 @@
+{
+    "id": 77681476,
+    "name": "ATOMIC CANNON",
+    "author": "LIEB",
+    "creators": ["LIEB"],
+    "verifier": "mari",
+    "verification": "https://www.youtube.com/watch?v=CUUdbhPsiBY",
+    "percentToQualify": "58",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kosta",
+            "link": "https://www.youtube.com/watch?v=UIZYDCLJoqs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kacek",
+            "link": "https://www.youtube.com/watch?v=xtSdSZdGy_Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Milos",
+            "link": "https://www.youtube.com/watch?v=EMOsWxLLmlQ",
+            "percent": 100,
+            "hz": 1000
+        },
+        {
+            "user": "spaceinvader",
+            "link": "https://www.youtube.com/watch?v=dRgS7u2EssA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "spaceinvader",
+            "link": "https://www.youtube.com/watch?v=dRgS7u2EssA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "razsta4ax",
+            "link": "https://www.youtube.com/watch?v=gIBo_H2zaJY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

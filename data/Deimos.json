@@ -1,0 +1,18 @@
+{
+    "id": 52955167,
+    "name": "Deimos",
+    "author": "EndLevel",
+    "creators": ["Andromeda, BoldStep, Eggnog, Hexhammer, Jihn, Jo2000, Metalface221, Smokes, WOOGI1411, Zenith, Cypher, KobaZz, Tandrii, Technet, GMTSean, Jobet, Nitro451, iBlade, Palery, DreamEater, Tygrysek, Iqrar99, Skitten, Kubs0n, Caernarvon725, Razur, Riqirez, Kugelblitz, Splash, Straw, sqrl, EndLevel, TrueOmega, Blaireswip"],
+    "verifier": "gdStraightfly",
+    "verification": "https://www.youtube.com/watch?v=iNNdfaniaMI",
+    "percentToQualify": "51",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheSlammed",
+            "link": "https://www.youtube.com/watch?v=OFGfPT0QMg8",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

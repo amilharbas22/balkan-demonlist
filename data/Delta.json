@@ -1,0 +1,18 @@
+{
+    "id": 93917362,
+    "name": "Delta",
+    "author": "Drakosa",
+    "creators": ["DiamondSplash, npesta, Loogiah, Ryder, Zanna83, Doggie, DTDom, Gizbro, Enzollz, crumche, goob, ArtsiBurn, UltraCharge, Kelvin, ked, Blitzer, CDMusic, DreamZoneGD, AppleCr, rynoxious, Konsuno, MercuryDT, Novaach, Drakosa, Tamori, tenzk"],
+    "verifier": "Kacek",
+    "verification": "https://www.youtube.com/watch?v=VNAa1kQG_68",
+    "percentToQualify": "43",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Stefan",
+            "link": "https://www.youtube.com/watch?v=vjmH9VBCwPw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

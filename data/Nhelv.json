@@ -1,0 +1,30 @@
+{
+    "id": 68353244,
+    "name": "Nhelv",
+    "author": "SrGuillester",
+    "creators": ["notlsa, SrGuillester, Dienid"],
+    "verifier": "grogulous",
+    "verification": "https://www.youtube.com/watch?v=1YUF7VriZTc",
+    "percentToQualify": "48",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DashTH",
+            "link": "https://www.youtube.com/watch?v=1r3gHRdtZWc",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Hexz",
+            "link": "https://www.youtube.com/watch?v=adGfb_l7ca4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kacek",
+            "link": "https://www.youtube.com/watch?v=6mv8yOmq_YA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

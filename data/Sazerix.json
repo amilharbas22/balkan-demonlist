@@ -8,5 +8,11 @@
     "percentToQualify": "52",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "cringiaris",
+            "link": "https://www.youtube.com/watch?v=wlVPfiLE6Rg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

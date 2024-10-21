@@ -1,0 +1,42 @@
+{
+    "id": 54615662,
+    "name": "The Yandere",
+    "author": "Dorami",
+    "creators": ["Mazl, Dorami, Mulpan, Partition, CastriX, RoiMousti, DavJT, YunHaSeu14, DanZmeN, MrLorenzo, Jghost217, FarDreamer, alkali, Alderite, Elisione, Master X, Bransilver, Cirtrax, Spectex, Osiris GD, JonathanGD"],
+    "verifier": "Lekoda",
+    "verification": "https://www.youtube.com/watch?v=kWyd09kRUBA",
+    "percentToQualify": "51",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Lekoda",
+            "link": "https://www.youtube.com/watch?v=kWyd09kRUBA",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=mH6gLqTN67s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Evernou",
+            "link": "https://www.youtube.com/watch?v=6yXnzv__bv8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GDvladi",
+            "link": "https://www.youtube.com/watch?v=bYGjLij-5DY",
+            "percent": 76,
+            "hz": 360
+        },
+        {
+            "user": "Remy",
+            "link": "https://www.youtube.com/watch?v=g6i7eMS02sg",
+            "percent": 53,
+            "hz": 288
+        }
+    ]
+}

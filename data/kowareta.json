@@ -1,0 +1,60 @@
+{
+    "id": 46763581,
+    "name": "kowareta",
+    "author": "Gablor",
+    "creators": ["Gablor, Minaxa, EndLevel"],
+    "verifier": "Diamond",
+    "verification": "https://www.youtube.com/watch?v=TGc6znQrAZo",
+    "percentToQualify": "64",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Liternix",
+            "link": "https://www.youtube.com/watch?v=juh_uoCMzqY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "phrost",
+            "link": "https://www.youtube.com/watch?v=e0iaVSS_gl4",
+            "percent": 100,
+            "hz": 240
+        }
+        {
+            "user": "andreas",
+            "link": "https://www.youtube.com/watch?v=d3bK5hzGQ3Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "minusPetar",
+            "link": "https://www.youtube.com/watch?v=foqt7h1pbcw",
+            "percent": 100,
+            "hz": 288
+        }
+        {
+            "user": "EatYoCake",
+            "link": "https://www.youtube.com/watch?v=uGy4I63GzbI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=sj8rjvu-uoM",
+            "percent": 100,
+            "hz": 360
+        }
+        {
+            "user": "mari",
+            "link": "https://www.youtube.com/watch?v=4L4fAC72pOU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rozengerj",
+            "link": "https://www.youtube.com/watch?v=xRUZ9CYbO0I",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -39,16 +39,16 @@
             "hz": 240
         },
         {
+            "user": "phrost",
+            "link": "https://www.youtube.com/watch?v=tgFpkpqlWxg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Robi0990",
             "link": "https://www.youtube.com/watch?v=LyCqHErCNFw",
             "percent": 95,
             "hz": 330
-        },
-        {
-            "user": "phrost",
-            "link": " ",
-            "percent": 82,
-            "hz": 360
         }
     ]
 }

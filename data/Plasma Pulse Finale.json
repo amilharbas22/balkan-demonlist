@@ -1,0 +1,42 @@
+{
+    "id": 38655495,
+    "name": "Plasma Pulse Finale",
+    "author": "Smokes",
+    "creators": ["Giron, Smokes"],
+    "verifier": "Liternix",
+    "verification": "https://www.youtube.com/watch?v=eQZiL4x5QTY",
+    "percentToQualify": "57",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "mari",
+            "link": "https://www.youtube.com/watch?v=k17Pw0kCnxM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Lekoda",
+            "link": "https://www.youtube.com/watch?v=kNlDPmNmI3w",
+            "percent": 100,
+            "hz": 300
+        }
+        {
+            "user": "Kacek",
+            "link": "https://www.youtube.com/watch?v=B4_L6m83vbc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Evernou",
+            "link": "https://www.youtube.com/watch?v=DGlImp9KJZI",
+            "percent": 100,
+            "hz": 480
+        }
+        {
+            "user": "zInslanex",
+            "link": "https://www.youtube.com/watch?v=PE5P6MM9kpE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

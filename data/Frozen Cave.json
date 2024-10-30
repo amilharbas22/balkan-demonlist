@@ -1,0 +1,24 @@
+{
+    "id": 68908396,
+    "name": "Frozen Cave",
+    "author": "TrueParadoxTeam",
+    "creators": ["TyakyoFyai, FlashWings576, Quicklen, Aqualime, Vornickon, AlexOris, DimaCrut, Sleynt"],
+    "verifier": "Lekoda",
+    "verification": "https://www.youtube.com/watch?v=QZ608tbcxnw",
+    "percentToQualify": "64",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "zInslanex",
+            "link": "https://www.youtube.com/watch?v=Nc4L0SKTNFc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=UE9-8uQXPiw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
